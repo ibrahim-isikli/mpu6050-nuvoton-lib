@@ -1,7 +1,7 @@
 /****************************************************************************
  * @file     pin_conf.c
  * @version  V0.42
- * @Date     2025/04/05-17:38:14
+ * @Date     2025/04/12-19:00:37
  * @brief    NuMicro generated code file
  *
  * SPDX-License-Identifier: Apache-2.0
@@ -28,7 +28,7 @@ PF.0:ICE_DAT(Pin:33)
 PF.1:ICE_CLK(Pin:34)
 ********************/
 
-#include "lcd_for_nuvoton.h"
+#include "mpu6050_for_nuvoton.h"
 
 /*
  * @brief This function provides the configured MFP registers

@@ -1,5 +1,5 @@
 /****************************************************************************
- * @file     lcd_for_nuvoton.h
+ * @file     mpu6050_for_nuvoton.h
  * @version  V1.00
  * @Date     2019/03/28-12:06:28
  * @brief    NuMicro generated code file

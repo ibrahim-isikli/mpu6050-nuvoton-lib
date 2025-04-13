@@ -1,7 +1,7 @@
 /****************************************************************************
  * @file     periph_conf.h
  * @version  V0.42
- * @Date     2025/04/05-17:38:14
+ * @Date     2025/04/12-19:00:37
  * @brief    NuMicro generated code file
  *
  * SPDX-License-Identifier: Apache-2.0

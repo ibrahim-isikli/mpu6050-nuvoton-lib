@@ -1,7 +1,7 @@
 /****************************************************************************
  * @file     clk_conf.c
  * @version  V0.42
- * @Date     2025/04/05-17:38:14
+ * @Date     2025/04/12-19:00:37
  * @brief    NuMicro generated code file
  *
  * SPDX-License-Identifier: Apache-2.0
@@ -26,7 +26,7 @@ WDT=Bus Clock(PCLK0):48MHz/Engine Clock:38.4kHz
 WWDT=Bus Clock(PCLK0):48MHz/Engine Clock:23.4375kHz
 ********************/
 
-#include "lcd_for_nuvoton.h"
+#include "mpu6050_for_nuvoton.h"
 
 /*
  * @brief This function updates clock registers to fulfill the configuration

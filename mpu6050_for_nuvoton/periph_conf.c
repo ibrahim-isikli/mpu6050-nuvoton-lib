@@ -1,6 +1,9 @@
-#include "lcd_for_nuvoton.h"
+#include "mpu6050_for_nuvoton.h"
 void CLK_Init(void)
 {
+
+    /* Configure clock detector functions, which are able to monitor the operations of HXT and LXT */
+    CLK->CLKDCTL = (CLK_CLKDCTL_HXTFDEN_Msk | CLK_CLKDCTL_HXTFQDEN_Msk | CLK_CLKDCTL_LXTFDEN_Msk);
 
 }
 void I2C0_Init()
